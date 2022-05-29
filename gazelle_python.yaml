@@ -1,0 +1,102 @@
+# GENERATED FILE - DO NOT EDIT!
+#
+# To update this file, run:
+#   bazel run //third_party:gazelle_python_manifest.update
+
+manifest:
+  modules_mapping:
+    certifi: certifi
+    certifi.__init__: certifi
+    certifi.__main__: certifi
+    certifi.core: certifi
+    charset_normalizer: charset_normalizer
+    charset_normalizer.__init__: charset_normalizer
+    charset_normalizer.api: charset_normalizer
+    charset_normalizer.assets: charset_normalizer
+    charset_normalizer.assets.__init__: charset_normalizer
+    charset_normalizer.cd: charset_normalizer
+    charset_normalizer.cli: charset_normalizer
+    charset_normalizer.cli.__init__: charset_normalizer
+    charset_normalizer.cli.normalizer: charset_normalizer
+    charset_normalizer.constant: charset_normalizer
+    charset_normalizer.legacy: charset_normalizer
+    charset_normalizer.md: charset_normalizer
+    charset_normalizer.models: charset_normalizer
+    charset_normalizer.utils: charset_normalizer
+    charset_normalizer.version: charset_normalizer
+    idna: idna
+    idna.__init__: idna
+    idna.codec: idna
+    idna.compat: idna
+    idna.core: idna
+    idna.idnadata: idna
+    idna.intranges: idna
+    idna.package_data: idna
+    idna.uts46data: idna
+    requests: requests
+    requests.__init__: requests
+    requests.__version__: requests
+    requests._internal_utils: requests
+    requests.adapters: requests
+    requests.api: requests
+    requests.auth: requests
+    requests.certs: requests
+    requests.compat: requests
+    requests.cookies: requests
+    requests.exceptions: requests
+    requests.help: requests
+    requests.hooks: requests
+    requests.models: requests
+    requests.packages: requests
+    requests.sessions: requests
+    requests.status_codes: requests
+    requests.structures: requests
+    requests.utils: requests
+    urllib3: urllib3
+    urllib3.__init__: urllib3
+    urllib3._collections: urllib3
+    urllib3._version: urllib3
+    urllib3.connection: urllib3
+    urllib3.connectionpool: urllib3
+    urllib3.contrib: urllib3
+    urllib3.contrib.__init__: urllib3
+    urllib3.contrib._appengine_environ: urllib3
+    urllib3.contrib._securetransport: urllib3
+    urllib3.contrib._securetransport.__init__: urllib3
+    urllib3.contrib._securetransport.bindings: urllib3
+    urllib3.contrib._securetransport.low_level: urllib3
+    urllib3.contrib.appengine: urllib3
+    urllib3.contrib.ntlmpool: urllib3
+    urllib3.contrib.pyopenssl: urllib3
+    urllib3.contrib.securetransport: urllib3
+    urllib3.contrib.socks: urllib3
+    urllib3.exceptions: urllib3
+    urllib3.fields: urllib3
+    urllib3.filepost: urllib3
+    urllib3.packages: urllib3
+    urllib3.packages.__init__: urllib3
+    urllib3.packages.backports: urllib3
+    urllib3.packages.backports.__init__: urllib3
+    urllib3.packages.backports.makefile: urllib3
+    urllib3.packages.six: urllib3
+    urllib3.poolmanager: urllib3
+    urllib3.request: urllib3
+    urllib3.response: urllib3
+    urllib3.util: urllib3
+    urllib3.util.__init__: urllib3
+    urllib3.util.connection: urllib3
+    urllib3.util.proxy: urllib3
+    urllib3.util.queue: urllib3
+    urllib3.util.request: urllib3
+    urllib3.util.response: urllib3
+    urllib3.util.retry: urllib3
+    urllib3.util.ssl_: urllib3
+    urllib3.util.ssl_match_hostname: urllib3
+    urllib3.util.ssltransport: urllib3
+    urllib3.util.timeout: urllib3
+    urllib3.util.url: urllib3
+    urllib3.util.wait: urllib3
+  pip_repository:
+    name: pip
+    incremental: true
+integrity: c7044e743950b9c28d7beff5d9e3afae92162d7902cd176244d6ea36f4dc28d6
